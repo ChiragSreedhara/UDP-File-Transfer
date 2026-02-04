@@ -1,0 +1,1 @@
+Test of a lightweight reliability protocol built over UDP to bypass the high latency "handshake tax" of standard TCP in satellite environments. It ensures that data is sent instantly while maintaining the data integrity needed for certain features.
